@@ -1,1 +1,2 @@
-﻿343fee8c4d786c8cfadc3391eaf9b379b6f0115e3b9689ac6c805d273bf86bcb  audits/tech-bullseye-2020.pdf
+﻿721b40b20ba449fb204b3a29d95c445319711c5ff5fb5e42b56b9f5404d8f342  audits/iagon-delegation-v3-v1.0.pdf
+4569108662eaca1b56314b9e7627621adbca64ac7cf43ec0e1359e896d90358a  audits/Security-Audit-Assessment-Secureworks-RedactedVersion.pdf

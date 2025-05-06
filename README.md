@@ -6,7 +6,8 @@ This repository contains public audit documents related to Iagons infrastructure
 
 | Date       | Audit Description           | File                        |
 |------------|-----------------------------|-----------------------------|
-| 2024 Q1    | Tech Sheet | [audits/tech-bullseye-2020.pdf](audits/tech-bullseye-2020.pdf) |
+| 2024 Q1    | Delegated Staking Smart Contract Audit | [audits/iagon-delegation-v3-v1.0.pdf](audits/iagon-delegation-v3-v1.0.pdf) |
+| 2024 Q1    | Web Application Security Assessment | [audits/Security-Audit-Assessment-Secureworks-RedactedVersion.pdf](audits/Security-Audit-Assessment-Secureworks-RedactedVersion.pdf) |
 
 > More reports will be added here as they become available.
 
